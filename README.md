@@ -70,4 +70,4 @@ The final model prioritizes recall for defaulters, making it effective for risk-
 
 ## 📎 License
 
-This project is open for educational and showcase purposes. Feel free to fork and improve.
+This project is intended for educational and demonstration purposes. Contributions and forks are welcome.
