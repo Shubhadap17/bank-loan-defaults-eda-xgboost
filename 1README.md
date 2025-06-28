@@ -64,7 +64,7 @@ The final model prioritizes recall for defaulters, making it effective for risk-
 
 - **Shubhada Patil**
 - [GitHub Profile](https://github.com/Shubhadap17)
-- [LinkedIn Profile](www.linkedin.com/in/shubhada-s-patil)
+- [LinkedIn Profile](https://linkedin.com/in/shubhada-s-patil)
 
 ---
 
